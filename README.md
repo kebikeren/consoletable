@@ -51,7 +51,7 @@ public void standard() {
 }
 ```
 
-![standard](images\standard.png)
+![standard](https://github.com/kebikeren/consoletable/blob/master/images/standard.png)
 
 
 
@@ -116,5 +116,5 @@ private void specialInner(DataTable table, Map<String, String>data, Integer[] wi
 }
 ```
 
-![special](images\special.png)
+![special](https://github.com/kebikeren/consoletable/blob/master/images/special.png)
 
